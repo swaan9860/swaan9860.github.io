@@ -149,7 +149,7 @@ h1{
 
 /* yeti pet chew */
 .whole-container{
-  padding-top: 100px;
+  padding-top: 10px;
   padding-left:80px;
   padding-right:80px;
 }
@@ -189,8 +189,8 @@ h1{
 
   max-width: 60%;
   max-height: 60%;
-  padding-top: 70px;
-  padding-bottom: 70px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 
@@ -200,11 +200,16 @@ h1{
   padding-right:100px;
 }
 .carousel-item .active{
-  display: flex;
-  padding-top: 80px;
-  padding-bottom: 50px;
-  max-width: 70%;
-  max-height: 70%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  max-width: 60%;
+  max-height: 60%;
+}
+.carousel-item .img{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  max-width: 60%;
+  max-height: 60%;
 }
 
 /* navbarTwo */
